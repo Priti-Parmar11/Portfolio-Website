@@ -75,3 +75,9 @@ Outcome
 This task was a hands-on learning opportunity that allowed me to apply what I’ve studied in a practical, real-world scenario. The final result is a professional and visually clean portfolio site that I can now use for future job or freelance opportunities. It also serves as a solid foundation to build more advanced features like project filtering, testimonials, or blog integration in the future.
 
 *OUTPUT* :
+
+![Image](https://github.com/user-attachments/assets/4ecdb37e-c9b3-4001-ae94-18f84a844ba0)
+
+![Image](https://github.com/user-attachments/assets/af4104ed-a837-41f1-a39a-5f2ccea8ccaa)
+
+![Image](https://github.com/user-attachments/assets/e176faf0-9fab-4f16-a400-f3ac7d512906)
